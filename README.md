@@ -69,4 +69,4 @@
   <img src="https://img.shields.io/badge/release-latest-ff640a.svg?style=for-the-badge" /></a>
 <br><br>
 Duino-coin adapted for lilygo-t-dongle
-More information on Duino-coin repo
+**More information on Duino-coin repo**
